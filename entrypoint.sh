@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 set -e
 
 : "${DSH_PUBLIC_HOST:?set DSH_PUBLIC_HOST to the exact domain Coolify serves this app on}"
